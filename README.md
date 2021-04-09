@@ -1,1 +1,11 @@
-# Native-Bayes-Spam-Classifier
+# Native Bayes Spam Classifier
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-01.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-02.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-03.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-04.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-05.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-06.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-07.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-08.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-09.png)
+![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-10.png)
