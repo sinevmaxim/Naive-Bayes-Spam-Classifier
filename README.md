@@ -1,4 +1,4 @@
-# Native Bayes Spam Classifier
+# Naive Bayes Spam Classifier
 ![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-01.png)
 ![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-02.png)
 ![alt text](https://github.com/sinevmaxim/Native-Bayes-Spam-Classifier/blob/main/theory/theory-03.png)
